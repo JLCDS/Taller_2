@@ -2,8 +2,6 @@ package presenter;
 
 import java.io.IOException;
 
-
-
 public class ArchivoPrincipal {
 
 	public static void main(String[] args) {
